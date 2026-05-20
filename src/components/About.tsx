@@ -57,19 +57,21 @@ const About = () => {
             
             
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Tonny Maingi</h3>
-            <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-            Hey there! 👋 I’m Antony Maingi — a passionate Cybersecurity student, Front-End Developer, and lifelong learner driven by curiosity and innovation.
-<p>My tech journey started with the Ajira Digital Program, where I built a solid foundation in graphic design, content writing, and data analysis. 
-From there, I expanded into front-end development and data modeling, combining clean, responsive code with structured solutions that focus on real user needs.</p>
-<p>Currently, I’m diving deeper into cybersecurity, specializing in ethical hacking and penetration testing. 
-I enjoy exploring tools like SQLMap and applying them to strengthen digital systems.</p>
- <p>At the same time, I keep my creative side alive by building intuitive interfaces and problem-solving through technology.</p>
-<p>Beyond the screen, I’m actively involved in leadership and community work — serving as the Sports, Games, and Entertainment Minister at my university.
- These roles sharpen my teamwork, communication, and organizational skills, which I carry back into my tech projects.
-<p>When I’m not debugging code or analyzing networks, you’ll probably find me outdoors hiking, brainstorming new ideas, or geeking out over sci-fi stories. 
-I believe that the best innovations come from blending technical excellence with creativity and human-centered thinking.</p>
+    <p className="text-lg text-gray-600 mb-6 leading-relaxed">
+  I’m Antony Maingi, a Cybersecurity Enthusiast and Front-End Developer with skills in ethical hacking, penetration testing, responsive web development, and data modeling.
 </p>
-            </p>
+
+<p className="text-lg text-gray-600 mb-6 leading-relaxed">
+  I have experience working with front-end technologies to build clean, responsive, and user-friendly interfaces, while also applying cybersecurity principles to improve system security and performance.
+</p>
+
+<p className="text-lg text-gray-600 mb-6 leading-relaxed">
+  My technical skills include graphic design, data analysis, content writing, SQLMap testing, problem-solving, and creating practical digital solutions focused on usability and functionality.
+</p>
+
+<p className="text-lg text-gray-600 mb-6 leading-relaxed">
+  I am passionate about continuous learning, technology innovation, and combining creativity with technical expertise to deliver impactful projects.
+</p>
             
             <div className="bg-blue-50 rounded-lg p-6 mb-6">
               <h4 className="font-semibold text-gray-900 mb-2">Fun Fact:</h4>
